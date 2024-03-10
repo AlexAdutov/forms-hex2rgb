@@ -1,0 +1,13 @@
+import React from 'react';
+// import './App.css';
+import Сonverter from './components/Сonverter'
+
+function App() {
+  return (
+        <>
+          <Сonverter/>
+        </>
+  );
+}
+
+export default App;
